@@ -1,0 +1,5 @@
+﻿input.obj : error LNK2001: 外部シンボル "_c_dfDIKeyboard" は未解決です。
+input.obj : error LNK2001: 外部シンボル "_GUID_SysKeyboard" は未解決です。
+input.obj : error LNK2001: 外部シンボル "_IID_IDirectInput8A" は未解決です。
+input.obj : error LNK2001: 外部シンボル "_DirectInput8Create@20" は未解決です。
+C:\Users\ysasa\Desktop\DX21 push　回転\Release\Project4.exe : fatal error LNK1120: 4 件の未解決の外部参照

@@ -1,0 +1,53 @@
+﻿  camera.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\camera.cpp':No such file or directory
+  collision.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\collision.cpp':No such file or directory
+  cube.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\cube.cpp':No such file or directory
+  debug_font.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\debug_font.cpp':No such file or directory
+  game.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\game.cpp':No such file or directory
+  gameover.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\gameover.cpp':No such file or directory
+  Gorl.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\Gorl.cpp':No such file or directory
+  grid.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\grid.cpp':No such file or directory
+  input.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\input.cpp':No such file or directory
+  judgementcpp.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\judgementcpp.cpp':No such file or directory
+  light.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\light.cpp':No such file or directory
+  main.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\main.cpp':No such file or directory
+  mydirect3d.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\mydirect3d.cpp':No such file or directory
+  player.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\player.cpp':No such file or directory
+  scene.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\scene.cpp':No such file or directory
+  sound.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\sound.cpp':No such file or directory
+  sprite.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\sprite.cpp':No such file or directory
+  SpriteAnim.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\SpriteAnim.cpp':No such file or directory
+  start.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\start.cpp':No such file or directory
+  system_timer.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\system_timer.cpp':No such file or directory
+  コードを生成中...
+  コンパイル中...
+  texture.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\texture.cpp':No such file or directory
+  title.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\title.cpp':No such file or directory
+  uzu.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\uzu.cpp':No such file or directory
+  uzumaker.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\uzumaker.cpp':No such file or directory
+  wind.cpp
+c1xx : fatal error C1083: ソース ファイルを開けません。'..\HEWα版\wind.cpp':No such file or directory
+  コードを生成中...

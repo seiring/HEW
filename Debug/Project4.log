@@ -1,8 +1,8 @@
 ﻿  camera.cpp
-d:\学校data\dx 22 後期　20191015\hew\hewα版\camera.cpp(28): warning C4305: '=': 'double' から 'float' へ切り詰めます。
+d:\hew\camera.cpp(28): warning C4305: '=': 'double' から 'float' へ切り詰めます。
   collision.cpp
   cube.cpp
-d:\学校data\dx 22 後期　20191015\hew\hewα版\cube.cpp(908): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+d:\hew\cube.cpp(908): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
   debug_font.cpp
   game.cpp
   gameover.cpp
@@ -14,12 +14,12 @@ d:\学校data\dx 22 後期　20191015\hew\hewα版\cube.cpp(908): warning C4244:
   main.cpp
   mydirect3d.cpp
   player.cpp
-d:\学校data\dx 22 後期　20191015\hew\hewα版\player.cpp(84): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
-d:\学校data\dx 22 後期　20191015\hew\hewα版\player.cpp(108): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
-d:\学校data\dx 22 後期　20191015\hew\hewα版\player.cpp(133): warning C4805: '==': 演算中の 'float' 型と 'bool' 型の混用は安全ではありません
-d:\学校data\dx 22 後期　20191015\hew\hewα版\player.cpp(197): warning C4805: '==': 演算中の 'float' 型と 'bool' 型の混用は安全ではありません
-d:\学校data\dx 22 後期　20191015\hew\hewα版\player.cpp(217): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-d:\学校data\dx 22 後期　20191015\hew\hewα版\player.cpp(221): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+d:\hew\player.cpp(84): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+d:\hew\player.cpp(108): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+d:\hew\player.cpp(133): warning C4805: '==': 演算中の 'float' 型と 'bool' 型の混用は安全ではありません
+d:\hew\player.cpp(197): warning C4805: '==': 演算中の 'float' 型と 'bool' 型の混用は安全ではありません
+d:\hew\player.cpp(217): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+d:\hew\player.cpp(221): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
   scene.cpp
   sound.cpp
   sprite.cpp
@@ -31,9 +31,9 @@ d:\学校data\dx 22 後期　20191015\hew\hewα版\player.cpp(221): warning C424
   texture.cpp
   title.cpp
   uzu.cpp
-d:\学校data\dx 22 後期　20191015\hew\hewα版\uzu.cpp(213): warning C4244: 'return': 'int' から 'float' への変換です。データが失われる可能性があります。
+d:\hew\uzu.cpp(213): warning C4244: 'return': 'int' から 'float' への変換です。データが失われる可能性があります。
   uzumaker.cpp
   wind.cpp
-d:\学校data\dx 22 後期　20191015\hew\hewα版\wind.cpp(77): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+d:\hew\wind.cpp(77): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
   コードを生成中...
-  Project4.vcxproj -> D:\学校data\DX 22 後期　20191015\HEW\HEW 20191128 - コピー\Debug\Project4.exe
+  Project4.vcxproj -> D:\HEW\Debug\Project4.exe

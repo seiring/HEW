@@ -1,41 +1,96 @@
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\vc141.pdb
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\vc141.idb
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\texture.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\system_timer.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\sprite.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\spriteanim.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\mydirect3d.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\main.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\light.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\input.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\grid.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\debug_font.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\camera.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\cube.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\player.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\uzu.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\collision.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\wind.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\uzumaker.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\jugement.obj
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.exe
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.ilk
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.pdb
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\player.obj.enc
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\sprite.obj.enc
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\cl.command.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\cl.read.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\cl.write.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\link-cvtres.read.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\link-cvtres.write.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\link-rc.read.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\link-rc.write.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\link.22456-cvtres.read.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\link.22456-cvtres.write.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\link.22456-rc.read.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\link.22456-rc.write.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\link.22456.read.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\link.22456.write.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\link.command.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\link.read.1.tlog
-d:\学校data\dx 22 後期　20191015\hew 製作\debug\project4.tlog\link.write.1.tlog
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\vc141.pdb
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\vc141.idb
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\wind.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\uzu.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\title.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\texture.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\system_timer.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\spriteanim.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\sprite.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\sound.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\scene.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\player.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\mydirect3d.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\main.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\light.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\input.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\grid.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\gameover.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\game.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\debug_font.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\cube.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\camera.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\start.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\gorl.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\vc141.pdb
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\vc141.idb
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\system_timer.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\start.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\spriteanim.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\sprite.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\sound.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\scene.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\player.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\mydirect3d.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\main.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\light.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\judgementcpp.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\input.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\grid.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\gorl.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\gameover.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\game.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\debug_font.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\cube.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\collision.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\camera.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\wind.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\uzumaker.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\uzu.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\title.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\texture.obj
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\project4.exe
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\project4.ilk
+d:\学校data\dx 22 後期　20191015\hew\hew 結合20191126\debug\project4.pdb
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\project4.exe
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\project4.ilk
+d:\学校data\dx 22 後期　20191015\hew\hew 20191128 - コピー\debug\project4.pdb
+d:\hew\debug\background.obj
+d:\hew\debug\camera.obj
+d:\hew\debug\collision.obj
+d:\hew\debug\cube.obj
+d:\hew\debug\debug_font.obj
+d:\hew\debug\game.obj
+d:\hew\debug\gameover.obj
+d:\hew\debug\gorl.obj
+d:\hew\debug\grid.obj
+d:\hew\debug\input.obj
+d:\hew\debug\judgementcpp.obj
+d:\hew\debug\jugement.obj
+d:\hew\debug\light.obj
+d:\hew\debug\main.obj
+d:\hew\debug\mydirect3d.obj
+d:\hew\debug\player.obj
+d:\hew\debug\scene.obj
+d:\hew\debug\sound.obj
+d:\hew\debug\sprite.obj
+d:\hew\debug\spriteanim.obj
+d:\hew\debug\start.obj
+d:\hew\debug\system_timer.obj
+d:\hew\debug\texture.obj
+d:\hew\debug\title.obj
+d:\hew\debug\uzu.obj
+d:\hew\debug\uzumaker.obj
+d:\hew\debug\wind.obj
+d:\hew\debug\start.obj.enc
+d:\hew\debug\project4.ilk
+d:\hew\debug\vc141.idb
+d:\hew\debug\project4.pdb
+d:\hew\debug\vc141.pdb
+d:\hew\debug\project4.exe
+d:\hew\debug\project4.tlog\cl.command.1.tlog
+d:\hew\debug\project4.tlog\cl.read.1.tlog
+d:\hew\debug\project4.tlog\cl.write.1.tlog
+d:\hew\debug\project4.tlog\link.command.1.tlog
+d:\hew\debug\project4.tlog\link.read.1.tlog
+d:\hew\debug\project4.tlog\link.write.1.tlog

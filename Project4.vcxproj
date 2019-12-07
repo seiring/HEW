@@ -19,64 +19,64 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\HEWα版\camerar.h" />
-    <ClInclude Include="..\HEWα版\collision.h" />
-    <ClInclude Include="..\HEWα版\common.h" />
-    <ClInclude Include="..\HEWα版\cube.h" />
-    <ClInclude Include="..\HEWα版\debug_font.h" />
-    <ClInclude Include="..\HEWα版\game.h" />
-    <ClInclude Include="..\HEWα版\gameover.h" />
-    <ClInclude Include="..\HEWα版\Gorl.h" />
-    <ClInclude Include="..\HEWα版\grid.h" />
-    <ClInclude Include="..\HEWα版\input.h" />
-    <ClInclude Include="..\HEWα版\judgement.h" />
-    <ClInclude Include="..\HEWα版\light.h" />
-    <ClInclude Include="..\HEWα版\mydirect3d.h" />
-    <ClInclude Include="..\HEWα版\player.h" />
-    <ClInclude Include="..\HEWα版\scene.h" />
-    <ClInclude Include="..\HEWα版\sound.h" />
-    <ClInclude Include="..\HEWα版\sprite.h" />
-    <ClInclude Include="..\HEWα版\SpriteAnim.h" />
-    <ClInclude Include="..\HEWα版\start.h" />
-    <ClInclude Include="..\HEWα版\system_timer.h" />
-    <ClInclude Include="..\HEWα版\texture.h" />
-    <ClInclude Include="..\HEWα版\title.h" />
-    <ClInclude Include="..\HEWα版\uzu.h" />
-    <ClInclude Include="..\HEWα版\uzumaker.h" />
-    <ClInclude Include="..\HEWα版\wind.h" />
+    <ClInclude Include="camerar.h" />
+    <ClInclude Include="collision.h" />
+    <ClInclude Include="common.h" />
+    <ClInclude Include="cube.h" />
+    <ClInclude Include="debug_font.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="gameover.h" />
+    <ClInclude Include="Gorl.h" />
+    <ClInclude Include="grid.h" />
+    <ClInclude Include="input.h" />
+    <ClInclude Include="judgement.h" />
+    <ClInclude Include="light.h" />
+    <ClInclude Include="mydirect3d.h" />
+    <ClInclude Include="player.h" />
+    <ClInclude Include="scene.h" />
+    <ClInclude Include="sound.h" />
+    <ClInclude Include="sprite.h" />
+    <ClInclude Include="SpriteAnim.h" />
+    <ClInclude Include="start.h" />
+    <ClInclude Include="system_timer.h" />
+    <ClInclude Include="texture.h" />
+    <ClInclude Include="title.h" />
+    <ClInclude Include="uzu.h" />
+    <ClInclude Include="uzumaker.h" />
+    <ClInclude Include="wind.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\HEWα版\camera.cpp" />
-    <ClCompile Include="..\HEWα版\collision.cpp" />
-    <ClCompile Include="..\HEWα版\cube.cpp" />
-    <ClCompile Include="..\HEWα版\debug_font.cpp" />
-    <ClCompile Include="..\HEWα版\game.cpp" />
-    <ClCompile Include="..\HEWα版\gameover.cpp" />
-    <ClCompile Include="..\HEWα版\Gorl.cpp" />
-    <ClCompile Include="..\HEWα版\grid.cpp" />
-    <ClCompile Include="..\HEWα版\input.cpp" />
-    <ClCompile Include="..\HEWα版\judgementcpp.cpp" />
-    <ClCompile Include="..\HEWα版\light.cpp" />
-    <ClCompile Include="..\HEWα版\main.cpp" />
-    <ClCompile Include="..\HEWα版\mydirect3d.cpp" />
-    <ClCompile Include="..\HEWα版\player.cpp" />
-    <ClCompile Include="..\HEWα版\scene.cpp" />
-    <ClCompile Include="..\HEWα版\sound.cpp" />
-    <ClCompile Include="..\HEWα版\sprite.cpp" />
-    <ClCompile Include="..\HEWα版\SpriteAnim.cpp" />
-    <ClCompile Include="..\HEWα版\start.cpp" />
-    <ClCompile Include="..\HEWα版\system_timer.cpp" />
-    <ClCompile Include="..\HEWα版\texture.cpp" />
-    <ClCompile Include="..\HEWα版\title.cpp" />
-    <ClCompile Include="..\HEWα版\uzu.cpp" />
-    <ClCompile Include="..\HEWα版\uzumaker.cpp" />
-    <ClCompile Include="..\HEWα版\wind.cpp" />
+    <ClCompile Include="camera.cpp" />
+    <ClCompile Include="collision.cpp" />
+    <ClCompile Include="cube.cpp" />
+    <ClCompile Include="debug_font.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="gameover.cpp" />
+    <ClCompile Include="Gorl.cpp" />
+    <ClCompile Include="grid.cpp" />
+    <ClCompile Include="input.cpp" />
+    <ClCompile Include="judgementcpp.cpp" />
+    <ClCompile Include="light.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="mydirect3d.cpp" />
+    <ClCompile Include="player.cpp" />
+    <ClCompile Include="scene.cpp" />
+    <ClCompile Include="sound.cpp" />
+    <ClCompile Include="sprite.cpp" />
+    <ClCompile Include="SpriteAnim.cpp" />
+    <ClCompile Include="start.cpp" />
+    <ClCompile Include="system_timer.cpp" />
+    <ClCompile Include="texture.cpp" />
+    <ClCompile Include="title.cpp" />
+    <ClCompile Include="uzu.cpp" />
+    <ClCompile Include="uzumaker.cpp" />
+    <ClCompile Include="wind.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{5B17E990-C89B-424C-956C-96E1D534A498}</ProjectGuid>
     <RootNamespace>Project4</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -133,6 +133,10 @@
     <LibraryWPath>$(LibraryWPath)</LibraryWPath>
     <LibraryPath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Program Files %28x86%29\Microsoft DirectX SDK %28June 2010%29\Lib\x86;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
@@ -150,7 +154,7 @@
     <ClCompile>
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
-      <SDLCheck>true</SDLCheck>
+      <SDLCheck>false</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
     </ClCompile>
   </ItemDefinitionGroup>

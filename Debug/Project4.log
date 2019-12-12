@@ -1,39 +1,11 @@
-﻿  camera.cpp
-d:\hew\camera.cpp(28): warning C4305: '=': 'double' から 'float' へ切り詰めます。
-  collision.cpp
-  cube.cpp
-d:\hew\cube.cpp(908): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
-  debug_font.cpp
-  game.cpp
-  gameover.cpp
-  Gorl.cpp
-  grid.cpp
-  input.cpp
-  judgementcpp.cpp
-  light.cpp
-  main.cpp
-  mydirect3d.cpp
-  player.cpp
-d:\hew\player.cpp(84): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
-d:\hew\player.cpp(108): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
-d:\hew\player.cpp(133): warning C4805: '==': 演算中の 'float' 型と 'bool' 型の混用は安全ではありません
-d:\hew\player.cpp(197): warning C4805: '==': 演算中の 'float' 型と 'bool' 型の混用は安全ではありません
-d:\hew\player.cpp(217): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-d:\hew\player.cpp(221): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
-  scene.cpp
-  sound.cpp
-  sprite.cpp
-  SpriteAnim.cpp
-  start.cpp
-  system_timer.cpp
-  コードを生成中...
-  コンパイル中...
-  texture.cpp
-  title.cpp
-  uzu.cpp
-d:\hew\uzu.cpp(213): warning C4244: 'return': 'int' から 'float' への変換です。データが失われる可能性があります。
-  uzumaker.cpp
-  wind.cpp
-d:\hew\wind.cpp(77): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
-  コードを生成中...
+﻿  Mesh.cpp
+d:\hew\mesh.cpp(75): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+d:\hew\mesh.cpp(77): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+d:\hew\mesh.cpp(78): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
+d:\hew\mesh.cpp(45): warning C4101: 'g_mesh_Vertex': ローカル変数は 1 度も使われていません。
+d:\hew\mesh.cpp(140): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+d:\hew\mesh.cpp(162): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+d:\hew\mesh.cpp(164): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+d:\hew\mesh.cpp(164): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
+d:\hew\mesh.cpp(166): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
   Project4.vcxproj -> D:\HEW\Debug\Project4.exe

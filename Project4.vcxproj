@@ -31,6 +31,7 @@
     <ClInclude Include="input.h" />
     <ClInclude Include="judgement.h" />
     <ClInclude Include="light.h" />
+    <ClInclude Include="Mesh.h" />
     <ClInclude Include="mydirect3d.h" />
     <ClInclude Include="player.h" />
     <ClInclude Include="scene.h" />
@@ -58,6 +59,7 @@
     <ClCompile Include="judgementcpp.cpp" />
     <ClCompile Include="light.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Mesh.cpp" />
     <ClCompile Include="mydirect3d.cpp" />
     <ClCompile Include="player.cpp" />
     <ClCompile Include="scene.cpp" />

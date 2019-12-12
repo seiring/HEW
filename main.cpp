@@ -209,7 +209,7 @@ void Update(void)
 
 void Draw(void)
 {
-	g_pDevice->Clear(0, NULL, D3DCLEAR_TARGET | D3DCLEAR_ZBUFFER, D3DCOLOR_RGBA(255,255,255,0), 1.0f, 0);  //画面のクリア
+	g_pDevice->Clear(0, NULL, D3DCLEAR_TARGET | D3DCLEAR_ZBUFFER, D3DCOLOR_RGBA(5,255,255,0), 1.0f, 0);  //画面のクリア
 	g_pDevice->SetRenderState(D3DRS_ALPHABLENDENABLE, TRUE);
 	g_pDevice->SetRenderState(D3DRS_SRCBLEND, D3DBLEND_SRCALPHA);
 	g_pDevice->SetRenderState(D3DRS_DESTBLEND,D3DBLEND_INVSRCALPHA);

@@ -1,3 +1,5 @@
+//#include"cube.h"
+#include"Mesh.h"
 #include"cube.h"
 #include"scene.h"
 #include"input.h"
@@ -17,6 +19,7 @@ void Game_Init()
 {
 	framecount = 0;
 	framecount2 = 0;
+	MeshInit(20,20);
 	Cube_Init();
 	PlayerInit();
 	Init_Wind();
@@ -30,8 +33,9 @@ void Game_Init()
 
 void Game_Uninit()
 {
-	Cube_Uninit();
+	//Cube_Uninit();
 	UzuUninit();
+	//MeshUninit();
 	Judgement_Init();
 	StopSound(SOUND_LABEL_BGM002);
 	StopSound(SOUND_LABEL_BGM001);
@@ -42,6 +46,7 @@ void Game_Update()
 	framecount++;
 	framecount2++;
 	Cube_Update();
+	MeshUpdate();
 	PlayerUpdate();
 	Update_Wind();
 	UzuMaker_Update();
@@ -55,7 +60,8 @@ void Game_Update()
 
 void Game_Draw()
 {
-	Cube_Draw(); //”g‚Ì•`‰æ
+	//Cube_Draw(); //”g‚Ì•`‰æ
+	MeshDraw();
 	Draw_Wind();//•—Œü‚«‚Ì•`‰æ
 	UzuDraw();  //‰Q‚Ì•`‰æ
 	PlayerDraw();//ƒvƒŒƒCƒ„[‚Ì•`‰æ

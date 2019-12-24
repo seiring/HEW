@@ -25,7 +25,7 @@ void Title_Update()
 {
 	if (Keyboard_IsTrigger(DIK_SPACE))
 	{
-		Scene_SetNextScene(SCENE_GAME);
+		Scene_SetNextScene(SCENE_TYUTORIAL);
 	}
 }
 void Title_Draw()

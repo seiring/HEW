@@ -54,7 +54,8 @@ void Game_Update()
 	Judgement_Update();
 	if (Keyboard_IsTrigger(DIK_SPACE))
 	{
-		Scene_SetNextScene(SCENE_GAMEOVER);
+		//変更点ーーーーーーーーーーーーーーーーーーーーーー
+		Scene_SetNextScene(SCENE_SCORE);
 	}
 }
 

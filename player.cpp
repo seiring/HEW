@@ -210,21 +210,21 @@ void PlayerUpdate()
 		}
 	}
 
-	g_old_pos = g_playerpos;
+	//g_old_pos = g_playerpos;
 
-	if (g_playerpos.z <= -3 || g_playerpos.z >= 5)
-	{
-		g_playerpos.z = (int)g_old_pos.z;
-	}
-	if (g_playerpos.x <= -3 || g_playerpos.x >= 3)
-	{
-		g_playerpos.x = (int)g_old_pos.x;
+	//if (g_playerpos.z <= -3 || g_playerpos.z >= 5)
+	//{
+	//	g_playerpos.z = (int)g_old_pos.z;
+	//}
+	//if (g_playerpos.x <= -3 || g_playerpos.x >= 3)
+	//{
+	//	g_playerpos.x = (int)g_old_pos.x;
 
-	}
+	//}
 
-	//プレイヤーの当たり判定の位置
-	g_player_collision.position.x = g_playerpos.x;  //プレイヤーのx座標を当たり判定のx座標に設定
-	g_player_collision.position.y = g_playerpos.z;  //プレイヤーのz座標を当たり判定のy座標に設定
+	////プレイヤーの当たり判定の位置
+	//g_player_collision.position.x = g_playerpos.x;  //プレイヤーのx座標を当たり判定のx座標に設定
+	//g_player_collision.position.y = g_playerpos.z;  //プレイヤーのz座標を当たり判定のy座標に設定
 
 	//プレイヤー無敵判定
 	if (!g_player_flag)
@@ -235,7 +235,6 @@ void PlayerUpdate()
 			g_player_flag = true;
 		}
 	}
-
 }
 
 void PlayerDraw()

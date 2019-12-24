@@ -1,12 +1,16 @@
-﻿  Mesh.cpp
-d:\hew\mesh.cpp(75): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
-d:\hew\mesh.cpp(77): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
-d:\hew\mesh.cpp(78): warning C4244: '=': 'FLOAT' から 'int' への変換です。データが失われる可能性があります。
-d:\hew\mesh.cpp(45): warning C4101: 'g_mesh_Vertex': ローカル変数は 1 度も使われていません。
-d:\hew\mesh.cpp(140): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
-d:\hew\mesh.cpp(163): warning C4244: '引数': 'double' から 'float' への変換です。データが失われる可能性があります。
-d:\hew\mesh.cpp(163): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
-d:\hew\mesh.cpp(165): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
-d:\hew\mesh.cpp(165): warning C4244: '引数': 'double' から 'FLOAT' への変換です。データが失われる可能性があります。
-d:\hew\mesh.cpp(167): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+﻿  game.cpp
+  gameover.cpp
+  Gorl.cpp
+  main.cpp
+  player.cpp
+d:\hew\player.cpp(84): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+d:\hew\player.cpp(108): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+d:\hew\player.cpp(133): warning C4805: '==': 演算中の 'float' 型と 'bool' 型の混用は安全ではありません
+d:\hew\player.cpp(197): warning C4805: '==': 演算中の 'float' 型と 'bool' 型の混用は安全ではありません
+  scene.cpp
+  Score.cpp
+  title.cpp
+  tyutorial.cpp
+  uzumaker.cpp
+  コードを生成中...
   Project4.vcxproj -> D:\HEW\Debug\Project4.exe

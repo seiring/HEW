@@ -35,6 +35,7 @@
     <ClInclude Include="mydirect3d.h" />
     <ClInclude Include="player.h" />
     <ClInclude Include="scene.h" />
+    <ClInclude Include="Score.h" />
     <ClInclude Include="sound.h" />
     <ClInclude Include="sprite.h" />
     <ClInclude Include="SpriteAnim.h" />
@@ -42,6 +43,7 @@
     <ClInclude Include="system_timer.h" />
     <ClInclude Include="texture.h" />
     <ClInclude Include="title.h" />
+    <ClInclude Include="tyutorial.h" />
     <ClInclude Include="uzu.h" />
     <ClInclude Include="uzumaker.h" />
     <ClInclude Include="wind.h" />
@@ -63,6 +65,7 @@
     <ClCompile Include="mydirect3d.cpp" />
     <ClCompile Include="player.cpp" />
     <ClCompile Include="scene.cpp" />
+    <ClCompile Include="Score.cpp" />
     <ClCompile Include="sound.cpp" />
     <ClCompile Include="sprite.cpp" />
     <ClCompile Include="SpriteAnim.cpp" />
@@ -70,6 +73,7 @@
     <ClCompile Include="system_timer.cpp" />
     <ClCompile Include="texture.cpp" />
     <ClCompile Include="title.cpp" />
+    <ClCompile Include="tyutorial.cpp" />
     <ClCompile Include="uzu.cpp" />
     <ClCompile Include="uzumaker.cpp" />
     <ClCompile Include="wind.cpp" />

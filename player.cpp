@@ -1,3 +1,4 @@
+#include <Windows.h>
 #include<d3dx9.h>
 #include <stdio.h>
 #include"mydirect3d.h"
@@ -12,6 +13,7 @@
 #include "Gorl.h"
 #include"uzu.h"
 #include"scene.h"
+#include "Score.h"
 #define PLAYER_HEIGHT	491
 #define PLAYER_WIDTH	348
 
@@ -46,8 +48,9 @@ static int g_vec = 1;
 static int frame = 0;
 
 static int player_start = 3;
+static int g_time_counter = 0;
 static float old_counter = 0.0f;  //画面遷移カウント
-static float time = 0.0f;         //カウント用
+static float time = 0.0f;         //カウント用切り替わってからの
 
 //テクスチャ管理用
 static int g_texid = -1;
@@ -133,7 +136,6 @@ void PlayerUpdate()
 	if (counter >= 60 * player_start&&end == false)
 	{
 		//プレイヤーの入力移動
-
 		if (Keyboard_IsPress(DIK_W))
 		{
 
@@ -166,6 +168,16 @@ void PlayerUpdate()
 			//g_angle_x -= 0.01f;
 		}
 		frame++;
+
+		//デバック時のために時間が確認できる用
+
+		g_time_counter = frame / 60;
+		char str[256];
+		sprintf(str, "%d\n", g_time_counter);
+		OutputDebugString(str);
+
+		//時間の計測
+		Score_Count(g_time_counter);
 
 		//風に影響される処理
 

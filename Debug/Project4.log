@@ -1,16 +1,12 @@
-﻿  game.cpp
-  gameover.cpp
-  Gorl.cpp
-  main.cpp
+﻿  Score.cpp
+  game.cpp
   player.cpp
-d:\hew\player.cpp(84): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
-d:\hew\player.cpp(108): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
-d:\hew\player.cpp(133): warning C4805: '==': 演算中の 'float' 型と 'bool' 型の混用は安全ではありません
-d:\hew\player.cpp(197): warning C4805: '==': 演算中の 'float' 型と 'bool' 型の混用は安全ではありません
+d:\hew\player.cpp(87): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+d:\hew\player.cpp(111): warning C4244: '初期化中': 'int' から 'float' への変換です。データが失われる可能性があります。
+d:\hew\player.cpp(136): warning C4805: '==': 演算中の 'float' 型と 'bool' 型の混用は安全ではありません
+d:\hew\player.cpp(209): warning C4805: '==': 演算中の 'float' 型と 'bool' 型の混用は安全ではありません
+d:\hew\player.cpp(176): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1774): note: 'sprintf' の宣言を確認してください
   scene.cpp
-  Score.cpp
-  title.cpp
-  tyutorial.cpp
-  uzumaker.cpp
   コードを生成中...
   Project4.vcxproj -> D:\HEW\Debug\Project4.exe

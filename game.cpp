@@ -12,6 +12,7 @@
 #include"start.h"
 #include"Gorl.h"
 #include"sound.h"
+#include "Score.h"
 
 static int framecount;
 static int framecount2;
